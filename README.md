@@ -1,4 +1,5 @@
 # Kelas-PakAR-PerancanganWebDanDesainGrafis
+
 NAMA : ALIFFULLAH HAQQ PALINGGIHAN
 NIM  : 23110310005
 
@@ -32,8 +33,3 @@ Website toko digital Eve Parfum berhasil online dan bisa diakses publik
 
 PENUTUP
 Saya ingin mengucapkan banyak terimakasih kepada pak Ahmad Roihan atas insigt dan sharing session yang telah di berikan selama 1 semester ini......
-
-
----
- 4. Hasil Akhir
-Website toko digital Eve Parfum berhasil online dan bisa diakses publik
